@@ -12,7 +12,10 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Will-B615/Threat-Hunting-scenario-tor)**
 
 - ## Scripting
-  - **[Linux](https://github.com/Will-B615/Linux-sysadmin/blob/main/README.md)**   
+  - **[Linux](https://github.com/Will-B615/Linux-sysadmin/blob/main/README.md)**
+ 
+- ## Microsoft Sentinel Investigations
+  - **[Sentinel]()** 
 
 <hr/>
 
