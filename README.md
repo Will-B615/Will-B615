@@ -15,7 +15,7 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
   - **[Linux](https://github.com/Will-B615/Linux-sysadmin/blob/main/README.md)**
  
 - ## Microsoft Sentinel Investigations
-  - **[Sentinel]()** 
+  - **[Sentinel](https://github.com/Will-B615/Identity-Breach-IR/blob/main/README.md)** 
 
 <hr/>
 
