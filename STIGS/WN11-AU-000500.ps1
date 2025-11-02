@@ -48,10 +48,6 @@
 
 #> 
 
-  
-
-# YOUR CODE GOES HERE 
-
 $registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application"
 $propertyName = "MaxSize"
 $propertyValue = 32768
