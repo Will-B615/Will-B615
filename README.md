@@ -10,6 +10,8 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 
 -**[RangeForce Junior SOC Analyst 1 Elite](https://www.virtualbadge.io/certificate-validator?credential=ffb74a93-56c3-4ec3-a0a1-7fb88ee578a8)**
 
+-**[Cydeo SOC](https://credentials.cydeo.com/18674a60-2367-4643-bda1-c563bed3ea12)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Will-B615/Vulnerability-Management/tree/main)**
