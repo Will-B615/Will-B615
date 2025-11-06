@@ -5,7 +5,10 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 ## Certifications
 
 -**[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/524398a1-b7fd-4d70-aa98-9e8634ec7159/public_url)**
+
 -**[CompTIA Security+ ce](https://www.credly.com/badges/067ebac2-470c-422c-86f2-ffc7b5bd65c5/public_url)**
+
+-**[RangeForce Junior SOC Analyst 1 Elite](https://www.virtualbadge.io/certificate-validator?credential=ffb74a93-56c3-4ec3-a0a1-7fb88ee578a8)**
 
 ## ⚠️ Vulnerability Management Projects
 
