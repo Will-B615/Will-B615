@@ -2,6 +2,9 @@
 
 Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst dedicated to continuous self-improvement and mastery. My background in martial arts and commitment to personal growth fuel my curiosity and analytical mindset. Now, I seek a Tier 1 SOC Analyst role to defend assets and identities, channeling my problem-solving skills and ethical values into proactive enterprise security
 
+## Certifications
+
+-**[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/524398a1-b7fd-4d70-aa98-9e8634ec7159/public_url)**
 
 ## ⚠️ Vulnerability Management Projects
 
