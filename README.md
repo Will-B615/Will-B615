@@ -4,6 +4,8 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 
 ## Certifications
 
+-**[Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/WillButler-7263/34FA9FC1A9DAA62C?sharingId=377F9BCF6BDB92BA)**
+
 -**[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/524398a1-b7fd-4d70-aa98-9e8634ec7159/public_url)**
 
 -**[CompTIA Security+ ce](https://www.credly.com/badges/067ebac2-470c-422c-86f2-ffc7b5bd65c5/public_url)**
