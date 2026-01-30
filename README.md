@@ -10,6 +10,8 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 
 -**[CompTIA Security+ ce](https://www.credly.com/badges/067ebac2-470c-422c-86f2-ffc7b5bd65c5/public_url)**
 
+-**[Google Network Security](https://www.credly.com/badges/ff6a1454-7f59-4960-a9e0-1b852b049362/public_url)**
+
 -**[RangeForce Junior SOC Analyst 1 Elite](https://www.virtualbadge.io/certificate-validator?credential=ffb74a93-56c3-4ec3-a0a1-7fb88ee578a8)**
 
 -**[Cydeo SOC](https://credentials.cydeo.com/18674a60-2367-4643-bda1-c563bed3ea12)**
