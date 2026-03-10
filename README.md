@@ -34,6 +34,7 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 
 - ## IT Projects
     - **[Designing a Busniess Computer](https://github.com/Will-B615/business-pc-setup/blob/main/README.md)**
+    - **[Secure Data Access and Transmission](https://github.com/Will-B615/Data-access-and-transmission-plan/tree/main)**
  
 - ## Networking Projects
      - **[PCAP Analysis with tcpdump](https://github.com/Will-B615/using-tcpdump/blob/main/README.md)**
