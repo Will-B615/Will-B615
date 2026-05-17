@@ -16,6 +16,8 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 
 -**[Cydeo SOC](https://credentials.cydeo.com/18674a60-2367-4643-bda1-c563bed3ea12)**
 
+-**[Microsoft IT Support Specialist](https://coursera.org/share/9bfcba4dbc5e75d1990255cd14a3072f)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Will-B615/Vulnerability-Management/tree/main)**
