@@ -34,6 +34,9 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
   - **[Brute-Force](https://github.com/Will-B615/Brute-Force-Investigation)**
   - **[PowerShell-Suspicious](https://github.com/Will-B615/PowerShell-Suspicious-Web-Request/blob/main/README.md)**
 
+- ## TryHackMe Identity & Access Management (IAM) Technical Write-ups
+  - 
+
 - ## IT Projects
     - **[Designing a Busniess Computer](https://github.com/Will-B615/business-pc-setup/blob/main/README.md)**
     - **[Secure Data Access and Transmission](https://github.com/Will-B615/Data-access-and-transmission-plan/tree/main)**
