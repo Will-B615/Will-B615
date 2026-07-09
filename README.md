@@ -36,6 +36,7 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 
 - ## TryHackMe Identity & Access Management (IAM) Technical Write-ups
   - **[Entra ID Sign-in Logs](https://github.com/Will-B615/Technical-Write-ups/blob/main/README.md)**
+  - **[Entra ID Audit-Logs](https://github.com/Will-B615/Audit-log/blob/main/README.md)**
 
 - ## IT Projects
     - **[Designing a Busniess Computer](https://github.com/Will-B615/business-pc-setup/blob/main/README.md)**
