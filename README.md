@@ -22,14 +22,15 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 
 - **[Vulnerability Management Program Implementation](https://github.com/Will-B615/Vulnerability-Management/tree/main)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Will-B615/Threat-Hunting-scenario-tor)**
+- **[Threat Hunt - Endpoint Compromise](https://github.com/Will-B615/Threat-Hunt-Endpoint-Compromise-/blob/main/README.md)**
 
 - ## Scripting
   - **[Linux](https://github.com/Will-B615/Linux-sysadmin/blob/main/README.md)**
  
-- ## Microsoft Sentinel Investigations
+- ## Microsoft Sentinel Investigation Projects
   - **[Identity-Breach](https://github.com/Will-B615/Identity-Breach-IR/blob/main/README.md)**
   - **[Brute-Force](https://github.com/Will-B615/Brute-Force-Investigation)**
   - **[PowerShell-Suspicious](https://github.com/Will-B615/PowerShell-Suspicious-Web-Request/blob/main/README.md)**
