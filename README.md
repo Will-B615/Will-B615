@@ -29,6 +29,8 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 
 ## Detction Engineering
 
+- **[Account Discovery Technical Write-up](https://github.com/Will-B615/Account-Discovery/blob/main/README.md)**
+
 - ## Scripting
   - **[Linux](https://github.com/Will-B615/Linux-sysadmin/blob/main/README.md)**
  
