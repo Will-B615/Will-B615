@@ -32,7 +32,7 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 - ## Scripting
   - **[Linux](https://github.com/Will-B615/Linux-sysadmin/blob/main/README.md)**
  
-- ## Microsoft Sentinel Investigation Projects
+- ## Microsoft Defender XDR/Sentinel Investigation Projects
   - **[Identity-Breach](https://github.com/Will-B615/Identity-Breach-IR/blob/main/README.md)**
   - **[Brute-Force](https://github.com/Will-B615/Brute-Force-Investigation)**
   - **[PowerShell-Suspicious](https://github.com/Will-B615/PowerShell-Suspicious-Web-Request/blob/main/README.md)**
