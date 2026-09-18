@@ -26,7 +26,7 @@ Driven by a passion for protecting others, I am an aspiring Cloud SOC Analyst de
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Will-B615/Threat-Hunting-scenario-tor)**
 - **[Threat Hunt - Endpoint Compromise](https://github.com/Will-B615/Threat-Hunt-Endpoint-Compromise-/blob/main/README.md)**
-- **[MySQL HoneyPot Project](https://github.com/Will-B615/MySQL-HoneyPot/blob/main/README.md)** 
+- **[MySQL HoneyPot Technical Write-up](https://github.com/Will-B615/MySQL-HoneyPot/blob/main/README.md)** 
 
 ## Detction Engineering
 
